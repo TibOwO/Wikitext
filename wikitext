@@ -17,8 +17,7 @@ Pour intégrer ce label, l'entreprise prétendante doit proposer une solution a 
 * Mobilité durable
 * Prévention des risques
 * Santé-environnement
-* Numérique éco-responsable.
-* <ref>{{Lien web |langue=fr |titre=L’initiative Greentech innovation |url=https://www.ecologie.gouv.fr/linitiative-greentech-innovation |site=Ministères Écologie Énergie Territoires |consulté le=2022-10-17}}</ref>
+* Numérique éco-responsable.<ref>{{Lien web |langue=fr |titre=L’initiative Greentech innovation |url=https://www.ecologie.gouv.fr/linitiative-greentech-innovation |site=Ministères Écologie Énergie Territoires |consulté le=2022-10-17}}</ref>
 
 
 Aujourd’hui, cette communauté est composée de 215 start-up et PME innovante, toutes œuvrant pour la transition écologiques.
@@ -30,10 +29,44 @@ Pour participer a cet appel a manifestation, les entreprises doivent répondre a
 * Etre "Made in france"
 * Etre une PME (- de 250 salariés et - de 50 millions €)
 * Répondre a une problématique environnementale
-* Avoir developper un MVP
+* Avoir développé un [[Produit minimum viable|MVP]]
+
+Une fois tous ces critère répondu une candidature peut être envoyée aux jurys afin qu'ils étudient le dossier.
+
+Une audition de 20 permettras aux jurys et au promotteur de présenter son projet et d'échanger sur les éventuelles questions du jury 
+
+si ceux-ci estiment le projet viable et intéressant, Il sera retenu et éligible a une certification "Greentech Innovation".
 
 == Avantages ==
-Cette organisation labellise les entreprises dont la candidature a été retenue lors de ces appels a manifestation d’intérêt. De part ce label l'entreprise a droit a plusieurs avantages:
+Cette organisation labellise les entreprises dont la candidature a été retenue lors de ces appels a manifestation d’intérêt. De part ce label l'entreprise a droit a plusieurs "Booster", ceux-ci se répartissent en 4 thématiques
+
+==== Booster visibilité ====
+Ce booster propose aux entreprise labellisée un booster de visibilité.
+
+* Il permet l'utilisation du [[logo]] "Greentech Innovation".
+
+* Donne là possibilité aux entreprises d'être relayée par les différents canaux de l'organisation (réseaux sociaux, newsletter).
+* Publication du projet dans l'annuaire des lauréat Greentech
+
+Ce booster permet aux projet de se démocratiser et d’accroître leur rayonnement a travers différentes techniques de communication.
+
+==== Booster commercial et réseaux ====
+Ce booster propose aux entreprise lauréates, d'étendre leur réseau continuer ici
+
+* Rencontres d’affaires (thématisées, en région, ou généralistes)
+* Sessions de pitch investisseurs (Présenter le projet a des investisseurs)
+* Calendrier collaboratif d’évènements greentech
+
+==== Booster digital ====
+
+* Formations en ligne 
+* Webinaire (chercher ce que c'est)
+* Etudes de marché
+* accès a une base de données de contacts presse
+* Accès aux données minisérielle en "[[Données ouvertes|open data]]"
+* [[Site d'emplois|Job Board]]
+
+==== Booster commande publique ====
 <references />
 __INDEX__
 __LIENNOUVELLESECTION__
