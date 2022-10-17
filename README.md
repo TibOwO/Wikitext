@@ -11,4 +11,4 @@ Ecrire une page [Wikipedia](https://fr.wikipedia.org/wiki/Wikipédia:Accueil_pri
 ## Contenu du repository
 
  - `readme.md` => ce document :)
- - `wikitext` => fichier contenant le code source de la page wiki1
+ - `wikitext` => fichier contenant le code source de la page wiki
