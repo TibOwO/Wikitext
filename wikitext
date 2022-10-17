@@ -1,1 +1,39 @@
-Test pull
+{{DISPLAYTITLE:Greentech}}
+
+Greentech innovation est une initiative lancée par le [[gouvernement]] français, plus particulièrement le [[Ministère de l'Écologie (France)|ministère de la Transition écologique et de la cohésion des territoires]]. Cette initiative a pour objectif d'encourager et de favoriser les start-up française a innover pour des projet en rapport avec le développement durable.
+
+Cette communauté est déjà riche de 215 start-up et PME innovantes, couvrant tous les sujets de la transition écologique : 
+
+== Labellisation ==
+Pour intégrer ce label, l'entreprise prétendante doit proposer une solution a une des 11 problématiques proposé par l'initiative ci-dessous :
+
+* Alimentation et agriculture durables
+* Bâtiment et ville durable
+* Décarbonations de l’industrie
+* Eau, biodiversité et biomimétisme
+* Economie circulaire
+* Energies renouvelables et décarbonnées
+* Innovation maritimes et écosystèmes marins
+* Mobilité durable
+* Prévention des risques
+* Santé-environnement
+* Numérique éco-responsable.
+* <ref>{{Lien web |langue=fr |titre=L’initiative Greentech innovation |url=https://www.ecologie.gouv.fr/linitiative-greentech-innovation |site=Ministères Écologie Énergie Territoires |consulté le=2022-10-17}}</ref>
+
+
+Aujourd’hui, cette communauté est composée de 215 start-up et PME innovante, toutes œuvrant pour la transition écologiques.
+
+Pour être labellisée, une start-up doit participer a un [[Appel à projets|Appel à Manifestation d'Interet]]. Cet appel a manifestation d'interet a pour objectif de sélectionner de 20 à 25 projets innovants de start-up et PME basés sur des méthodologies, des technologies, des services ou des solutions industrielles ambitieuses, innovantes et durables.<ref>{{Lien web |langue=fr-FR |titre=Appel à Manifestation d'Intérêt |url=https://greentechinnovation.fr/appel-a-manifestation-dinteret/ |site=Greentech Innovation |consulté le=2022-10-17}}</ref>
+
+Pour participer a cet appel a manifestation, les entreprises doivent répondre a certains critères comme par exemple: <ref>{{Lien web |langue=fr-FR |prénom=Benoît |nom=Spittler |titre=Les réponses à vos questions sur l'AMI Greentech Innovation |url=https://greentechinnovation.fr/2022/01/12/les-reponses-a-vos-questions-sur-lami-greentech-innovation/ |site=Greentech Innovation |date=2022-01-12 |consulté le=2022-10-17}}</ref>
+
+* Etre "Made in france"
+* Etre une PME (- de 250 salariés et - de 50 millions €)
+* Répondre a une problématique environnementale
+* Avoir developper un MVP
+
+== Avantages ==
+Cette organisation labellise les entreprises dont la candidature a été retenue lors de ces appels a manifestation d’intérêt. De part ce label l'entreprise a droit a plusieurs avantages:
+<references />
+__INDEX__
+__LIENNOUVELLESECTION__
