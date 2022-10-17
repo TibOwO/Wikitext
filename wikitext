@@ -37,7 +37,3 @@ Cette organisation labellise les entreprises dont la candidature a été retenue
 <references />
 __INDEX__
 __LIENNOUVELLESECTION__
-
-
-
-###### par AMETLLER Thibault et BEDOS Enzo

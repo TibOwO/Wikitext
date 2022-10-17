@@ -12,3 +12,6 @@ Ecrire une page [Wikipedia](https://fr.wikipedia.org/wiki/Wikipédia:Accueil_pri
 
  - `readme.md` => ce document :)
  - `wikitext` => fichier contenant le code source de la page wiki
+
+
+###### par AMETLLER Thibault et BEDOS Enzo
