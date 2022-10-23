@@ -1,97 +1,111 @@
-  
+{{Aide:Comment créer un article/brouillon}}-->Greentech innovation est une initiative lancée par le [[gouvernement]] français, plus particulièrement le [[Ministère de l'Écologie (France)|ministère de la Transition écologique et de la cohésion des territoires]]. Cette initiative a pour objectif d'encourager et de favoriser les [[start-up]] française a innover pour des projet en rapport avec le développement durable.
 
-Greentech innovation est une initiative lancée par le gouvernement français, plus particulièrement le ministère de la Transition écologique et de la cohésion des territoires. Cette initiative a pour objectif d'encourager et de favoriser les start-up française a innover pour des projet en rapport avec le développement durable.
+Cette communauté est déjà riche de 215 start-up et PME innovantes, couvrant tous les sujets de la [[transition écologique]] :
 
-Cette communauté est déjà riche de 215 start-up et PME innovantes, couvrant tous les sujets de la transition écologique :
+== Labellisation ==
+Pour intégrer ce label, l'entreprise prétendante doit proposer une solution a une des 11 problématiques proposé par l'initiative ci-dessous :
 
-Labellisation
+# Alimentation et agriculture durables
 
-Pour intégrer ce label, l'entreprise prétendante doit proposer une solution a une des 11 problématiques proposé par l'initiative ci-dessous :
+# Bâtiment et ville durable
 
-Alimentation et agriculture durables
-Bâtiment et ville durable
-Décarbonations de l’industrie
-Eau, biodiversité et biomimétisme
-Economie circulaire
-Energies renouvelables et décarbonées
-Innovation maritimes et écosystèmes marins
-Mobilité durable
-Prévention des risques
-Santé-environnement
-Numérique éco-responsable.
-Finance durable
+# [[Décarbonation|Décarbonations]] de l’industrie
+
+# Eau, biodiversité et [[biomimétisme]]
+
+# [[Économie circulaire|Economie circulaire]]
+
+# Energies renouvelables et décarbonées
+
+# Innovation maritimes et [[Biologie marine|écosystèmes marins]]
+
+# [[Écomobilité|Mobilité durable]]
+
+# Prévention des risques
+
+# Santé-environnement
+
+# Numérique éco-responsable.
+
+# [[Finance verte|Finance durable]]<ref>{{Lien web |langue=fr |titre=L’initiative Greentech innovation |url=https://www.ecologie.gouv.fr/linitiative-greentech-innovation |site=Ministères Écologie Énergie Territoires |consulté le=2022-10-17}}</ref>
 
 Aujourd’hui, cette communauté est composée de 215 start-up et PME innovante, toutes œuvrant pour la transition écologiques.
 
-Pour être labellisée, une start-up doit participer a un Appel à Manifestation d'Intérêt. Cet appel a manifestation d'intérêt a pour objectif de sélectionner de 20 à 25 projets innovants de start-up et PME basés sur des méthodologies, des technologies, des services ou des solutions industrielles ambitieuses, innovantes et durables.
+Pour être labellisée, une start-up doit participer a un [[Appel à projets|Appel à Manifestation d'Intérêt]]. Cet appel a manifestation d'intérêt a pour objectif de sélectionner de 20 à 25 projets innovants de start-up et [[Petite ou moyenne entreprise|PME]] basés sur des méthodologies, des technologies, des services ou des solutions industrielles ambitieuses, innovantes et durables.<ref>{{Lien web |langue=fr-FR |titre=Appel à Manifestation d'Intérêt |url=https://greentechinnovation.fr/appel-a-manifestation-dinteret/ |site=Greentech Innovation |consulté le=2022-10-17}}</ref>
 
-Pour participer a cet appel a manifestation, les entreprises doivent répondre a certains critères comme par exemple: 
+Pour participer a cet appel a manifestation, les entreprises doivent répondre a certains critères comme par exemple: <ref>{{Lien web |langue=fr-FR |prénom=Benoît |nom=Spittler |titre=Les réponses à vos questions sur l'AMI Greentech Innovation |url=https://greentechinnovation.fr/2022/01/12/les-reponses-a-vos-questions-sur-lami-greentech-innovation/ |site=Greentech Innovation |date=2022-01-12 |consulté le=2022-10-17}}</ref>
 
-Etre "Made in France"
-Etre une PME (- de 250 salariés et - de 50 millions €)
-Répondre a une problématique environnementale
-Avoir développé un MVP
+* Etre "[[Made in France (film)|Made in france]]"
 
-Une fois tous ces critères répondus une candidature peut être envoyée aux jurys afin qu'ils puissent étudient le dossier.
+* Etre une [[Petite ou moyenne entreprise|PME]] (- de 250 salariés et - de 50 millions €)
 
-Une audition de 20 minutes permettras aux jurys et au promoteur de présenter son projet et d'échanger sur les éventuelles questions du jury.
+* Répondre a une problématique environnementale
+
+* Avoir développé un [[Produit minimum viable|MVP]]
+
+Une fois tous ces critère répondu une candidature peut être envoyée aux jurys afin qu'ils étudient le dossier.
+
+Une audition de 20 permettras aux jurys et au promoteur de présenter son projet et d'échanger sur les éventuelles questions du jury.
 
 Si ceux-ci estiment le projet viable et intéressant, Il sera retenu et éligible a une certification "Greentech Innovation".
 
-Avantages
-
+== Avantages ==
 Cette organisation labellise les entreprises dont la candidature a été retenue lors de ces appels a manifestation d’intérêt. De part ce label l'entreprise a droit a plusieurs "Booster", ceux-ci se répartissent en 5 thématiques
 
-Booster visibilité
+=== Booster visibilité ===
+Ce booster propose aux entreprise labellisée un booster de visibilité, afin de faciliter leur développement commercial 
 
-Ce booster propose aux entreprise labellisée un booster de visibilité.
+* Il permet l'utilisation du [[logo]] "Greentech Innovation".
 
-Il permet l'utilisation du logo "Greentech Innovation".
-Donne là possibilité aux entreprises d'être relayée par les différents canaux de l'organisation (réseaux sociaux, newsletter).
-Publication du projet dans l'annuaire des lauréat Greentech
+* Donne là possibilité aux entreprises d'être relayée par les différents canaux de l'organisation (réseaux sociaux, newsletter).
+
+* Publication du projet dans l'annuaire des lauréat Greentech
 
 Ce booster permet aux projet de se démocratiser et d’accroître leur rayonnement a travers différentes techniques de communication.
 
-Booster commercial et réseaux
+=== Booster commercial et réseaux ===
+Ce booster propose aux entreprise lauréates, d'étendre leur réseau 
 
-Ce booster propose aux entreprise lauréates, d'étendre leur réseau continuer ici
+* Rencontres d’affaires (thématisées, en région, ou généralistes)
 
-Rencontres d’affaires (thématisées, en région, ou généralistes)
-Sessions de pitch investisseurs (Présenter le projet a des investisseurs)
-Calendrier collaboratif d’évènements greentech
-Booster digital
+* Sessions de pitch investisseurs (Présenter le projet a des investisseurs)
 
+* Calendrier collaboratif d’évènements greentech
+
+=== Booster digital ===
 Il permet aux start-up d'accéder a des ressources leur permettant d'acquérir des connaissances digitales ainsi qu'a des nombreuses données ministérielles leur permettant de se développer en prenant en compte l'enjeux majeur de notre ère concernant le digital.
 
-Formations en ligne
-Webinaire
-Etudes de marché
-accès a une base de données de contacts presse
-Accès aux données ministérielle en "open data"
-Job Board
-Booster commande publique
-Facilitation de l’accès aux marchés publics (annuaire destiné aux décideurs publics, divers outils, réseau d’acheteurs publics, accès aux appels d’offre des marchés publics…)
-Accès au Living Lab de Saint Mandé.
-Booster Green20
+* Formations en ligne
 
-Piloté par la Mission French Tech, en partenariat avec le Ministère de la Transition écologique, ce programme permet aux bénéficiaire d'accéder a un accompagnement des services de l’Etat (réseau des « correspondants French Tech »), d’une intégration dans la diplomatie économique, d’actions de visibilité et d’un accompagnement spécifique sur les enjeux GreenTech, en association avec le ministère de la Transition écologique.
+* [[Webinaire]]
 
-Meet'Up Greentech
+* [[Étude de marché|Etudes de marché]]
 
-Organisé par le ministère de la Transition écologique et de la Cohésion des territoires et le ministère de la Transition énergétique, ce rassemblement permet un moment d’échange privilégié entre les acteurs de l’écosystème (start-up, PME innovantes, grands groupes, investisseurs, collectivités territoriales, acheteurs publics…) pour :
+* Accès a une base de données de contacts presse
 
-Accélérer les politiques publiques de la transition écologique ;
-Partager et diffuser les dernières orientations et innovations de la GreenTech ;
-Créer des opportunités de développement pour les start-up et les PME.
+* Accès aux données ministérielle en "[[Données ouvertes|open data]]"
 
-Sont organisés, au cours de cette journée, des rendez-vous d’affaires entre les acteurs du label, des conférences sur les sujet concernant le label, stands et networking.
+* [[Site d'emplois|Job Board]]
 
-Notes et références
+=== Booster commande publique ===
 
-« L’initiative Greentech innovation », sur Ministères Écologie Énergie Territoires (consulté le 17 octobre 2022)
+* Facilitation de l’accès aux [[Marché public|marchés publics]] (annuaire destiné aux décideurs publics, divers outils, réseau d’acheteurs publics, accès aux appels d’offre des marchés publics…)
 
-« Appel à Manifestation d'Intérêt », sur Greentech Innovation (consulté le 17 octobre 2022)
+* Accès au [[Living lab|Living Lab]] de Saint Mandé
 
-Benoît Spittler, « Les réponses à vos questions sur l'AMI Greentech Innovation », sur Greentech Innovation, 12 janvier 2022 (consulté le 17 octobre 2022)
+=== Booster Green20 ===
+Piloté par la Mission French Tech, en partenariat avec le Ministère de la Transition écologique, ce programme permet aux bénéficiaire d'accéder a un accompagnement des services de l’Etat (réseau des « correspondants French Tech »), d’une intégration dans la diplomatie économique, d’actions de visibilité et d’un accompagnement spécifique sur les enjeux GreenTech, en association avec le [[Ministère de l'Écologie (France)|ministère de la Transition écologique]].<ref>{{Article|prénom1=Martin|nom1=Bortzmeyer|titre=Prendre en compte les enjeux environnementaux et de durabilité dans la formation initiale et continue. Un point de vue depuis le ministère de la transition écologique|périodique=Revue française d'administration publique|volume=N° 179|numéro=3|date=2021-11-04|issn=0152-7401|doi=10.3917/rfap.179.0125|lire en ligne=http://dx.doi.org/10.3917/rfap.179.0125|consulté le=2022-10-17|pages=639–656}}</ref>
 
-Martin Bortzmeyer, « Prendre en compte les enjeux environnementaux et de durabilité dans la formation initiale et continue. Un point de vue depuis le ministère de la transition écologique », Revue française d'administration publique, vol. N° 179, no 3,‎ 4 novembre 2021, p. 639–656 (ISSN 0152-7401, DOI 10.3917/rfap.179.0125, lire en ligne, consulté le 17 octobre 2022)
+== Meet'Up Greentech ==
+Organisé par le [[Ministère de l'Écologie (France)|ministère de la Transition écologique et de la Cohésion des territoires et le ministère de la Transition énergétique]], ce rassemblement permet un moment d’échange privilégié entre les acteurs de l’écosystème (start-up, PME innovantes, grands groupes, investisseurs, [[Collectivité territoriale|collectivités territoriales]], acheteurs publics…) pour :
+
+* Accélérer les [[Politique publique|politiques publiques]] de la transition écologique ;
+
+* Partager et diffuser les dernières orientations et innovations de la greentech ;
+
+* Créer des opportunités de développement pour les start-up et les PME.
+
+Sont organisés, au cours de cette journée, des rendez-vous d’affaires entre les acteurs du label, des conférences sur les sujet concernant le label, stands et [[Réseau social|networking.]]
+
+== Notes et références ==
+<references /><!-- Cliquez sur le bouton bleu « Publier ... » pour initialiser votre brouillon. Vous pourrez ensuite le modifier librement. Ne retirez pas ces codes, ils sont là pour vous aider. -->
